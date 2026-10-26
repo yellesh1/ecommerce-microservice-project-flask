@@ -18,7 +18,7 @@ data:
 
   MAIL_SERVER: "smtp.gmail.com"
   MAIL_PORT: "587"
-  MAIL_USERNAME: "kashifsayyad09@gmail.com" 
+  MAIL_USERNAME: "yelldevops6@gmail.com" 
   MAIL_PASSWORD: "wlrf ymjg ncew thjf"
   MAIL_USE_TLS: "true"
   MAIL_USE_SSL: "false"
