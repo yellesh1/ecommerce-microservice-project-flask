@@ -7,7 +7,7 @@ env:
   AWS_REGION: us-east-1
   TF_VERSION: "1.12.2"
   TF_WORKING_DIR: EKS-Terraform
-  BUCKET_NAME : yellesh3devncloudtechdevopsrrr
+  BUCKET_NAME : yellesh4devncloudtechdevopsrrr
 
 jobs:
 
